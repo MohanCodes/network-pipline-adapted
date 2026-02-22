@@ -1,0 +1,11 @@
+OTU	Size	Taxonomy
+OTU001	3240	Bacteria(100);Firmicutes(100);Bacilli(98);Lactobacillales(95);Lactobacillaceae(92);Lactobacillus(90);
+OTU002	5328	Bacteria(100);Bacteroidetes(100);Bacteroidia(99);Bacteroidales(98);Bacteroidaceae(95);Bacteroides(92);
+OTU003	1845	Bacteria(100);Firmicutes(100);Clostridia(97);Clostridiales(95);Ruminococcaceae(90);Faecalibacterium(85);
+OTU004	2488	Bacteria(100);Actinobacteria(100);Actinobacteria(99);Bifidobacteriales(98);Bifidobacteriaceae(96);Bifidobacterium(94);
+OTU005	2825	Bacteria(100);Firmicutes(100);Bacilli(98);Lactobacillales(96);Streptococcaceae(93);Streptococcus(90);
+OTU006	2521	Bacteria(100);Proteobacteria(100);Gammaproteobacteria(98);Enterobacteriales(95);Enterobacteriaceae(92);Escherichia(88);
+OTU007	2783	Bacteria(100);Firmicutes(100);Clostridia(98);Clostridiales(96);Lachnospiraceae(93);Blautia(88);
+OTU008	1903	Bacteria(100);Bacteroidetes(100);Bacteroidia(98);Bacteroidales(96);Prevotellaceae(93);Prevotella(89);
+OTU009	2423	Bacteria(100);Actinobacteria(100);Coriobacteriia(97);Coriobacteriales(95);Coriobacteriaceae(91);Collinsella(87);
+OTU010	1579	Bacteria(100);Firmicutes(100);Erysipelotrichia(96);Erysipelotrichales(94);Erysipelotrichaceae(90);Erysipelotrichaceae_unclassified(85);
